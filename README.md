@@ -1,0 +1,2 @@
+- docker compose up --build
+- forward port 8501
